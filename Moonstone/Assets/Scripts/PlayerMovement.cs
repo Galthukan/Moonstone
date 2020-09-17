@@ -8,9 +8,8 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody rb;
-    public float speed = 10f;
-    public float maxVelocityChange = 10.0f;
-
+    public float speed = 5f;
+    public float maxVelocityChange = 1.0f;
     public float forwardForce = 100f;
     public float sideWaysForce = 25f;
     private Vector3 movement;
@@ -29,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        float xMove = Input.GetAxis("Horizontal");
+        float xMove = Input.GetAxis("Horizontal") / 2;
         float zMove = Input.GetAxis("Vertical");
 
         movement = new Vector3(xMove, 0f, zMove);
@@ -47,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
     void Movement(Vector3 direction)
     {
         Vector3 velocity = rb.velocity;
-        Vector3 velocityChange = (movement - velocity);
+        Vector3 velocityChange = (direction - velocity);
         velocityChange.x = Mathf.Clamp(velocityChange.x, -maxVelocityChange, maxVelocityChange);
         velocityChange.z = Mathf.Clamp(velocityChange.z, -maxVelocityChange, maxVelocityChange);
         velocityChange.y = 0;
