@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3088a15-6d96-4c4c-b408-b463858af479" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameHandler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHandler.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/EditMode/NewTestScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/EditMode/NewTestScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/PlayMode/NewTestScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/PlayMode/NewTestScript.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Tests/EditMode/NewTestScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/PlayMode/NewTestScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hm0W0muu493iCKaWD1sBSaUqrP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3498854" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002292" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3088a15-6d96-4c4c-b408-b463858af479" name="Default Changelist" comment="" />
+      <created>1600600990450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600600990450</updated>
+      <workItem from="1600601016120" duration="189000" />
+      <workItem from="1600601240196" duration="4411000" />
+      <workItem from="1600610641123" duration="2969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="PlayMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1031" y="525" key="#Notifications" timestamp="1600601174370">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1031" y="525" key="#Notifications/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601174370" />
+    <state x="872" y="341" key="#Plugins" timestamp="1600601791952">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="341" key="#Plugins/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601791952" />
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600601396339">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601396339" />
+    <state width="1340" height="355" key="GridCell.Tab.0.bottom" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.0.center" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.0.left" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.0.right" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.1.bottom" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.1.center" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.1.left" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.1.right" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.2.bottom" timestamp="1600601205688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.2.bottom/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205688" />
+    <state width="1340" height="355" key="GridCell.Tab.2.center" timestamp="1600601205688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.2.center/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205688" />
+    <state width="1340" height="355" key="GridCell.Tab.2.left" timestamp="1600601205687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.2.left/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205687" />
+    <state width="1340" height="355" key="GridCell.Tab.2.right" timestamp="1600601205688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.2.right/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205688" />
+    <state width="1340" height="355" key="GridCell.Tab.3.bottom" timestamp="1600601205688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.3.bottom/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205688" />
+    <state width="1340" height="355" key="GridCell.Tab.3.center" timestamp="1600601205688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.3.center/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205688" />
+    <state width="1340" height="355" key="GridCell.Tab.3.left" timestamp="1600601205688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.3.left/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205688" />
+    <state width="1340" height="355" key="GridCell.Tab.3.right" timestamp="1600601205688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="355" key="GridCell.Tab.3.right/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205688" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1600631431395">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600631431395" />
+    <state x="958" y="256" width="644" height="888" key="find.popup" timestamp="1600629262924">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="958" y="256" width="644" height="888" key="find.popup/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600629262924" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1600631343339">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600631343339" />
+  </component>
+</project>
