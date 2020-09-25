@@ -23,18 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3088a15-6d96-4c4c-b408-b463858af479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameHandler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Moonstone/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Moonstone/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Moonstone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Moonstone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthSystem.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/EditMode/NewTestScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/EditMode/NewTestScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/PlayMode/NewTestScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tests/PlayMode/NewTestScript.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +41,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderInitializer.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Tests/EditMode/NewTestScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
         <option value="$PROJECT_DIR$/Assets/Tests/PlayMode/NewTestScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/PlayMode/PlayerTests.cs" />
       </list>
     </option>
   </component>
@@ -66,6 +66,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3498854" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002292" />
@@ -78,7 +79,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Unity" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -111,7 +112,10 @@
       <updated>1600600990450</updated>
       <workItem from="1600601016120" duration="189000" />
       <workItem from="1600601240196" duration="4411000" />
-      <workItem from="1600610641123" duration="2969000" />
+      <workItem from="1600610641123" duration="8563000" />
+      <workItem from="1600808339799" duration="2249000" />
+      <workItem from="1600973798984" duration="65000" />
+      <workItem from="1600973965792" duration="2904000" />
     </task>
     <servers />
   </component>
@@ -133,6 +137,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -140,10 +145,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1031" y="525" key="#Notifications/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601174370" />
-    <state x="872" y="341" key="#Plugins" timestamp="1600601791952">
+    <state x="872" y="341" key="#Plugins" timestamp="1600975234328">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="341" key="#Plugins/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601791952" />
+    <state x="872" y="341" key="#Plugins/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600975234328" />
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600601396339">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -212,17 +217,17 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1340" height="355" key="GridCell.Tab.3.right/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600601205688" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1600631431395">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1600975358117">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600631431395" />
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600975358117" />
     <state x="958" y="256" width="644" height="888" key="find.popup" timestamp="1600629262924">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="958" y="256" width="644" height="888" key="find.popup/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600629262924" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1600631343339">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1600975403740">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600631343339" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1920.0.1920.1160@0.0.2560.1400" timestamp="1600975403740" />
   </component>
 </project>
