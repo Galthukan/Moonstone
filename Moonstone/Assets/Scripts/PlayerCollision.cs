@@ -7,8 +7,8 @@ public class PlayerCollision : MonoBehaviour
         Debug.Log(other.collider.name);
 
         if (!other.collider.CompareTag("Obstacle")) return;
-        var component = GetComponent<PlayerHealth>();
-        component.Damage(1);
-        Debug.Log("1 Damage taken");
+        var playerHandler = GetComponent<PlayerHandler>();
+        playerHandler.PlayerHealth.Damage(1);
+        Debug.Log("1 Damage taken " + playerHandler.PlayerHealth.Health + " HP left" );
     }
 }
